@@ -3,3 +3,4 @@ this is checkup for gitignore
 added 3rd line
 added
 added
+added
